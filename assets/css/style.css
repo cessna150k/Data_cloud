@@ -31,8 +31,10 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     height: 797px;
     
-	margin: auto;
-    background-image: url("../images/intro.jpg")
+    margin: auto;
+    background-image: url("../images/intro.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .intro__inner {
